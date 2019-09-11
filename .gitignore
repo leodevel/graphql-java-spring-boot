@@ -158,3 +158,8 @@ buildNumber.properties
 
 # "temporary" build files
 /target
+
+# Netbeans
+
+nbactions.xml
+HELP.md
